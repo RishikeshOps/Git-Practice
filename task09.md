@@ -1,4 +1,16 @@
 # Day 9 Task: Deep Dive in Git & GitHub for DevOps Engineers.
+## Find the answers of below quistion and Write blog on it.
+1) What is Git and why is it important?
+2) How does Git differ from other version control systems?
+3) Can you explain the difference between Git and GitHub?
+4) How do you create a new repository on GitHub?
+5) Can you describe the process of creating a new branch, making changes, and then merging those changes back into the main branch?
+6) How do you resolve a merge conflict in Git?
+7) Can you explain the difference between a "pull request" and a "merge"?
+8) Have you ever had to recover lost code or data using Git? If so, how did you do it?
+9) How do you handle large files that are too large to be stored in a Git repository?
+10) Can you describe a scenario in which using Git would be particularly beneficial for a team?
+ 
 ## Tasks
 task-1: 
 - Create a new repository on GitHub.
