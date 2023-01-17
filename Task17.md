@@ -1,4 +1,4 @@
-## Day 16 Task: Docker Project for DevOps Engineers.
+## Day 17 Task: Docker Project for DevOps Engineers.
 
 # You people are doing amezing in **90daysofdevops**. Today's challange is so special Because You are going to do DevOps project today with Docker. Are You Exited 😍
 
@@ -16,7 +16,7 @@ task:
 - Create a Dockerfile for a simple web application (e.g. a Node.js or Python app)
 - Build the image using the Dockerfile and run the container
 - Verify that the application is working as expected by accessing it in a web browser
-- Push the image to a public or private repository (e.g. Docker Hub or GitHub Packages)
+- Push the image to a public or private repository (e.g. Docker Hub )
 
 For Refference Project visit [here](https://youtu.be/Tevxhn6Odc8)
 
