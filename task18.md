@@ -18,7 +18,7 @@ Aj thodi padhai krte hai on Docker Compose 😃
 
 Learn how to use the docker-compose.yml file, to set up the environment, configure the services and links between different containers, and also to use environment variables in the docker-compose.yml file. 
 
-[Sample docker-compose.yaml file]()
+[Sample docker-compose.yaml file](https://github.com/LondheShubham153/90DaysOfDevOps/blob/master/2023/day18/docker-compose.yaml)
 
 
 ## Task-2
