@@ -26,10 +26,11 @@ A freestyle project in Jenkins is a type of project that allows you to build, te
 
 
 # Task-02
-- Create Jenkins project to run "docker-compose up -d" command to start the multiple containers defined in the compose file (Hint- Application & Database)
+- Create Jenkins project to run "docker-compose up -d" command to start the multiple containers defined in the compose file (Hint- use day-19 Application & Database docker-compose file)
 - Set up a cleanup step in the Jenkins project to run "docker-compose down" command to stop and remove the containers defined in the compose file.
 
 For Refference jenkins Freestyle Project visit [here](https://youtu.be/wwNWgG5htxs)
 
-ou can Post on LinkedIn and let us know what you have learned from this task by #90DaysOfDevOps Challange.
+You can Post on LinkedIn and let us know what you have learned from this task by #90DaysOfDevOps Challange.
+
 Happy Learning:)
