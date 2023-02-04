@@ -1,10 +1,14 @@
-# Day 35 Task: Managing Persistent Volumes in Your Deployment
+# Day 35 Task: Managing Persistent Volumes in Your Deployment 💥
 🙌 Kudos to you for conquering ConfigMaps and Secrets in Kubernetes yesterday.
 
 🔥 You're on fire! 🔥
 
 ## What are Persistent Volumes in k8s
 In Kubernetes, a Persistent Volume (PV) is a piece of storage in the cluster that has been provisioned by an administrator. A Persistent Volume Claim (PVC) is a request for storage by a user. The PVC references the PV, and the PV is bound to a specific node. Read official documentation of [Persistent Volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/). 
+
+⏰ Wait, wait, wait! 📣 Attention all #90daysofDevOps Challengers. 💪
+Before diving into today's task, don't forget to share your thoughts on the #90daysofDevOps challenge 💪 Fill out our feedback form (https://lnkd.in/gcgvrq8b) to help us improve and provide the best experience 🌟 Your participation and support is greatly appreciated 🙏 Let's continue to grow together 🌱
+
 
 ## Today's tasks:
 ### Task 1:
