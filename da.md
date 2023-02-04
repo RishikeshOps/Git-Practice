@@ -9,9 +9,9 @@ In Kubernetes, a Persistent Volume (PV) is a piece of storage in the cluster tha
 ## Today's tasks:
 ### Task 1:
 Add a Persistent Volume to your Deployment todo app.
-- Create a Persistent Volume using a file on your node. [Template]()
-- Create a Persistent Volume Claim that references the Persistent Volume. [Template]()
-- Update your deployment.yml file to include the Persistent Volume Claim. After Applying pv.yml pvc.yml your deployment file look like this [Template]()
+- Create a Persistent Volume using a file on your node. [Template](https://github.com/LondheShubham153/90DaysOfDevOps/blob/94e3970819e097a5b8edea40fe565d583419f912/2023/day36/pv.yml)
+- Create a Persistent Volume Claim that references the Persistent Volume. [Template](https://github.com/LondheShubham153/90DaysOfDevOps/blob/94e3970819e097a5b8edea40fe565d583419f912/2023/day36/pvc.yml)
+- Update your deployment.yml file to include the Persistent Volume Claim. After Applying pv.yml pvc.yml your deployment file look like this [Template](https://github.com/LondheShubham153/90DaysOfDevOps/blob/94e3970819e097a5b8edea40fe565d583419f912/2023/day36/Deployment.yml)
 - Apply the updated deployment using the command: `kubectl apply -f deployment.yml`
 - Verify that the Persistent Volume has been added to your Deployment by checking the status of the Pods and Persistent Volumes in your cluster. Use this commands `kubectl get pods` ,
 `kubectl get pv`
