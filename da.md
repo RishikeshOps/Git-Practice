@@ -15,7 +15,8 @@ Add a Persistent Volume to your Deployment todo app.
 - Apply the updated deployment using the command: `kubectl apply -f deployment.yml`
 - Verify that the Persistent Volume has been added to your Deployment by checking the status of the Pods and Persistent Volumes in your cluster. Use this commands `kubectl get pods` ,
 `kubectl get pv`
-Note : Now You know how to apply any file in k8s
+
+⚠️ Don't forget: To apply changes or create files in your Kubernetes deployments, each file must be applied separately. ⚠️
 
 ### Task 2:
 Accessing data in the Persistent Volume,
@@ -25,3 +26,5 @@ Accessing data in the Persistent Volume,
 
 Need help with Persistent Volumes? Check out this video for assistance.
 Keep up the excellent work🙌💥
+
+Happy Learning :)
