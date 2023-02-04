@@ -1,4 +1,4 @@
-# Day 35 Task: Managing Persistent Volumes in Your Deployment 💥
+# Day 36 Task: Managing Persistent Volumes in Your Deployment 💥
 🙌 Kudos to you for conquering ConfigMaps and Secrets in Kubernetes yesterday.
 
 🔥 You're on fire! 🔥
@@ -28,7 +28,7 @@ Accessing data in the Persistent Volume,
 `
 - Verify that you can access the data stored in the Persistent Volume from within the Pod
 
-Need help with Persistent Volumes? Check out this video for assistance.
+Need help with Persistent Volumes? Check out this [video](https://youtu.be/U0_N3v7vJys) for assistance.
 Keep up the excellent work🙌💥
 
 Happy Learning :)
