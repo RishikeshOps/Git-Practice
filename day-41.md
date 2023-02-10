@@ -1,4 +1,4 @@
-# Day 41 AWS EC2 Automation - Load Balancing with ELB ☁
+# Day 41: Setting up an Application Load Balancer with AWS EC2 🚀 ☁
 
 ![LB2](https://user-images.githubusercontent.com/115981550/218145297-d55fe812-32b7-4242-a4f8-eb66312caa2c.png)
 
@@ -25,14 +25,25 @@ Read more from [here](https://docs.aws.amazon.com/elasticloadbalancing/latest/us
 3) **Classic Load Balancer (CLB)** - _operates at layer 4 of the OSI model and is ideal for applications that require basic load balancing features._
 - Read more [here](https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/introduction.html)
 
-## Task:
-![LoadBalancer](https://user-images.githubusercontent.com/115981550/218143557-26ec33ce-99a7-4db6-a46f-1cf48ed77ae0.png)
+## 🎯 Today's Tasks:
+
+### Task 1:
+- launch 2 EC2 instances with an Ubuntu AMI and use User Data to install the Apache Web Server.
+- Modify the index.html file to include your name so that when your Apache server is hosted, it will display your name also do it for 2nd instance which include " TrainWithShubham Community is Super Aweasome :) ".
+- Copy the public IP address of your EC2 instances.
+- Open a web browser and paste the public IP address into the address bar.
+- You should see a webpage displaying information about your PHP installation.
+
+### Task 2:
 - Create an Application Load Balancer (ALB) in EC2 using the AWS Management Console.
-- Add two EC2 instances to the ALB as target groups.
+- Add EC2 instances which you launch in task-1 to the ALB as target groups.
 - Verify that the ALB is working properly by checking the health status of the target instances and testing the load balancing capabilities.
 
- Read more about ELB [here](https://rushikesh-mashidkar.hashnode.dev/create-an-application-load-balancer-elastic-load-balancing-using-aws-ec2-instance).
+![LoadBalancer](https://user-images.githubusercontent.com/115981550/218143557-26ec33ce-99a7-4db6-a46f-1cf48ed77ae0.png)
 
-Don't forget to share your progress on LinkedIn.
+Need help with task? Check out this [Blog for assistance](https://rushikesh-mashidkar.hashnode.dev/create-an-application-load-balancer-elastic-load-balancing-using-aws-ec2-instance).
 
-Happy Learning! :)
+Don't forget to share your progress on LinkedIn and have a great day🙌💥
+
+Happy Learning! 😃
+
