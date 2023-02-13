@@ -1,4 +1,4 @@
-# Day 47: EC2 and Auto Scaling 💻 📈
+# Day 44: EC2 and Auto Scaling 💻 📈
 Today, we will be exploring two of the core services in AWS, Amazon Elastic Compute Cloud (EC2) and Auto Scaling, as part of the 90 Days of DevOps Challenge.
 
 ## Auto Scaling
